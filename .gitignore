@@ -21,6 +21,7 @@
 *.log
 *.nupkg
 *.ncrunchsolution
+*.xml
 [Bb]in
 [Dd]ebug/
 test-results
